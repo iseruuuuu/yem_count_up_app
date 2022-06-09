@@ -20,6 +20,7 @@ impl Component for Model {
 
     fn update(&mut self, msg: Self::Message) -> ShouldRender {
         match msg {
+            //カウントが増える
             Msg::AddOne => self.value += 1,
         }
         true
