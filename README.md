@@ -14,6 +14,8 @@
 10、`miniserve ./static --index index.html`  
 
 
+11,`http://127.0.0.1:8080/` or `http://localhost:8080/`を開く  
+
 ## Yewとは
 →YewとはWebAssemblyを使用したマルチスレッドのUIフレームワーク(Reactのようなイメージ)  
 →Webフロントフレームワーク  
@@ -32,3 +34,13 @@
 ->コンパイルされたコードはWeb上で実行され、ネイティブマシンコードに変換されるため高速で動く、といった感じ    
 
 
+
+# 参考サイト
+
+https://ozway.jp/2020/10/rustwebassemblyyew%E3%81%A7todo%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E5%AE%9F%E8%A3%85/
+
+https://yew.rs/ja/docs/0.18.0/getting-started/build-a-sample-app
+
+https://qiita.com/suzuki_sh/items/c53a6056bb4377a50861
+
+https://blog.tagbangers.co.jp/ja/2020/06/07/getting-started-rust
