@@ -1,5 +1,11 @@
 # yem_todo_app
 
+# プロジェクト作成
+
+１、`cargo install wasm-pack`  
+２、`cargo new --lib yew-app && cd yew-app`  
+
+
 ## Yewとは
 →YewとはWebAssemblyを使用したマルチスレッドのUIフレームワーク(Reactのようなイメージ)  
 →Webフロントフレームワーク  
@@ -19,4 +25,3 @@
   ->コンパイルされたコードはWeb上で実行され、ネイティブマシンコードに変換されるため高速で動く、といった感じ  
 
 
-  
