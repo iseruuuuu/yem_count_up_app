@@ -11,7 +11,9 @@
 7、`rustup toolchain install nightly --allow-downgrade`を打ち込む（何のコマンドかわからない）    
 8、 `rustup toolchain install stable-x86_64-unknown-linux-gnu --allow-downgrade`（何のコマンドかわからない）    
 9、`cargo +nightly install miniserve`  
-10、`miniserve ./static --index index.html`  
+
+
+10、Buildするときは、`miniserve ./static --index index.html`  を入力する  
 
 
 11,`http://127.0.0.1:8080/` or `http://localhost:8080/`を開く  
